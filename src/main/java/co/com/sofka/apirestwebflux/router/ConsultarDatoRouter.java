@@ -1,5 +1,7 @@
-package co.com.sofka.apirestwebflux;
+package co.com.sofka.apirestwebflux.router;
 
+import co.com.sofka.apirestwebflux.dto.DatoDTO;
+import co.com.sofka.apirestwebflux.service.UseCaseListar;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;

@@ -1,4 +1,4 @@
-package co.com.sofka.apirestwebflux;
+package co.com.sofka.apirestwebflux.entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

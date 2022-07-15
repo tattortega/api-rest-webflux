@@ -1,4 +1,4 @@
-package co.com.sofka.apirestwebflux;
+package co.com.sofka.apirestwebflux.dto;
 
 import javax.validation.constraints.NotBlank;
 import java.util.Objects;
