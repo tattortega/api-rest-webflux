@@ -1,5 +1,7 @@
-package co.com.sofka.apirestwebflux;
+package co.com.sofka.apirestwebflux.mapper;
 
+import co.com.sofka.apirestwebflux.dto.DatoDTO;
+import co.com.sofka.apirestwebflux.entity.Dato;
 import org.springframework.stereotype.Component;
 
 import java.util.function.Function;
